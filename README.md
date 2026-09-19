@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | (PALM) and Artificial Intelligence Co-Op | Titusville, New Jersey, United... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099389?s=gh-awesome-ml-internships-2027) |
+| **Johnson & Johnson** | (PALM) and Artificial Intelligence Co-Op | Titusville, New Jersey, United... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099389?s=gh-awesome-ml-internships-2027) |
 | **Adobe** | 2027 Intern - Machine Learning Engineer | San Jose | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171519?s=gh-awesome-ml-internships-2027) |
 | **Nike** | NIKE, Inc. Artificial Intelligence, Data, & Machine Learning Engineering Undergraduate Internship | Beaverton, Oregon | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-91110?s=gh-awesome-ml-internships-2027) |
 | **Qualcomm** | Machine Learning & Artificial Intelligence Engineering Internship – Summer 2027 | San Diego, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3095746?s=gh-awesome-ml-internships-2027) |
@@ -160,8 +160,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | Data Science Neuroscience PhD Co-op | Cambridge, Massachusetts,... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098401?s=gh-awesome-ml-internships-2027) |
-| **Johnson & Johnson** | Clinical Epidemiology and Data Science Co-op | Danvers, Massachusetts, United... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098453?s=gh-awesome-ml-internships-2027) |
+| **Johnson & Johnson** | Data Science Neuroscience PhD Co-op | Cambridge, Massachusetts,... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098401?s=gh-awesome-ml-internships-2027) |
+| **Johnson & Johnson** | Clinical Epidemiology and Data Science Co-op | Danvers, Massachusetts, United... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098453?s=gh-awesome-ml-internships-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Product Data Science | San Francisco, California,... | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8199365?s=gh-awesome-ml-internships-2027) |
 | **Transamerica** | Data Analytics Intern (Spring 2027, Full-time Hours) | Cedar Rapids, Iowa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-transamerica-us-R20062776?s=gh-awesome-ml-internships-2027) |
 | **Cigna** | Data Scientist Intern- Master's Program (Hybrid: NJ, TX, or MO) | Morris Plains, NJ | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26010876?s=gh-awesome-ml-internships-2027) |
@@ -189,7 +189,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Data Scientist, Product Intern, MS, Summer 2027 | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-119184035237765830?s=gh-awesome-ml-internships-2027) |
 | **Google** | Business Data Scientist Intern, PhD, Summer 2027 | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-134577198026629830?s=gh-awesome-ml-internships-2027) |
 | **Google** | Data Scientist, Research Intern, PhD, Summer 2027 | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-89965613241246406?s=gh-awesome-ml-internships-2027) |
-| **Robinhood** | PeopleX Insights & Analytics Intern (Summer 2027) | Menlo Park, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8198255?s=gh-awesome-ml-internships-2027) |
+| **Robinhood** | PeopleX Insights & Analytics Intern (Summer 2027) | Menlo Park, CA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8198255?s=gh-awesome-ml-internships-2027) |
 | **General Motors** | 2027 Summer Intern – IndyCar Race Strategy & Analytics | Concord, North Carolina, United... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619990?s=gh-awesome-ml-internships-2027) |
 | **Clarios** | People Analytics & AI Intern (Summer 2027) | WI | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD50216?s=gh-awesome-ml-internships-2027) |
 | **Amgen** | Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | United States - Remote | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255704?s=gh-awesome-ml-internships-2027) |
