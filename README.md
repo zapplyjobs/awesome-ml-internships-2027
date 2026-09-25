@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cisco** | Machine Learning Engineer I (Intern) – United States | San Jose California US | 59m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026803?s=gh-awesome-ml-internships-2027) |
-| **Cisco** | Machine Learning Engineer II (Intern) – United States | San Jose California US | 59m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026802?s=gh-awesome-ml-internships-2027) |
+| **Cisco** | Machine Learning Engineer I (Intern) – United States | San Jose California US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026803?s=gh-awesome-ml-internships-2027) |
+| **Cisco** | Machine Learning Engineer II (Intern) – United States | San Jose California US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026802?s=gh-awesome-ml-internships-2027) |
 | **PathAI** | Machine Learning Intern/Co-op | Boston, MA or Remote | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pathai-8843495002?s=gh-awesome-ml-internships-2027) |
 | **Kitware** | Computer Vision Co-Op | Clifton Park, New York | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-kitware-e76197d1-4dc3-4f7c-a30a-597713283bb3?s=gh-awesome-ml-internships-2027) |
 | **Cisco** | Machine Learning Engineer II (Intern) – United States | San Jose, California | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2026802?s=gh-awesome-ml-internships-2027) |
@@ -169,11 +169,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **FOX** | Spring 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA | 29m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033950?s=gh-awesome-ml-internships-2027) |
-| **Biogen** | Co-op, Data Science | Remote, USA | 38m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24211?s=gh-awesome-ml-internships-2027) |
-| **Biogen** | Co-op, Data Science & AI Innovation | Remote, USA | 38m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-awesome-ml-internships-2027) |
-| **Merck & Co.** | 2027 Future Talent Program - Data Science - Intern | USA - Pennsylvania - West Point | 39m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R413312?s=gh-awesome-ml-internships-2027) |
-| **Brunswick** | Mercury Marine: Advanced Manufacturing/Operations Analytics Engineering Co-op | Fond du Lac, WI | 47m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051238?s=gh-awesome-ml-internships-2027) |
+| **FOX** | Spring 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033950?s=gh-awesome-ml-internships-2027) |
+| **Biogen** | Co-op, Data Science | Remote, USA | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24211?s=gh-awesome-ml-internships-2027) |
+| **Biogen** | Co-op, Data Science & AI Innovation | Remote, USA | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-awesome-ml-internships-2027) |
+| **Merck & Co.** | 2027 Future Talent Program - Data Science - Intern | USA - Pennsylvania - West Point | 47m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R413312?s=gh-awesome-ml-internships-2027) |
+| **Brunswick** | Mercury Marine: Advanced Manufacturing/Operations Analytics Engineering Co-op | Fond du Lac, WI | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051238?s=gh-awesome-ml-internships-2027) |
 | **Johnson & Johnson** | Data Science Co-op | Danvers, Massachusetts, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100341?s=gh-awesome-ml-internships-2027) |
 | **Amgen** | Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | United States - Remote | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-awesome-ml-internships-2027) |
 | **Brunswick** | Mercury Marine: Data Analytics Internship | Fond du Lac, WI | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051119?s=gh-awesome-ml-internships-2027) |
@@ -306,7 +306,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **The Hartford** | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT | 48m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2626103?s=gh-awesome-ml-internships-2027) |
+| **The Hartford** | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT | 56m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2626103?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Applied Sciences INTERN | United States | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055606?s=gh-awesome-ml-internships-2027) |
 | **S&P Global** | Ratings Analytical Intern - Americas | New York, NY | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-331833?s=gh-awesome-ml-internships-2027) |
 | **Bloomberg Industry Group** | 2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist | Arlington, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bloomberg-bloombergindustrygroup-externa-144776?s=gh-awesome-ml-internships-2027) |
