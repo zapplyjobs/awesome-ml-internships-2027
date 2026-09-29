@@ -171,7 +171,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Brunswick** | Data Science Intern | Champaign, IL | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051760?s=gh-awesome-ml-internships-2027) |
+| **Brunswick** | Data Science Intern | Champaign, IL | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051760?s=gh-awesome-ml-internships-2027) |
 | **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054572?s=gh-awesome-ml-internships-2027) |
 | **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0055524?s=gh-awesome-ml-internships-2027) |
 | **RTX** | Business & Data Analytics Co-Op (Spring/Summer 2027) | IA-CEDAR RAPIDS | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878019?s=gh-awesome-ml-internships-2027) |
@@ -307,7 +307,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **T. Rowe Price** | 2027 Technology and Data Internship | Baltimore, MD | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82677?s=gh-awesome-ml-internships-2027) |
+| **T. Rowe Price** | 2027 Technology and Data Internship | Baltimore, MD | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82677?s=gh-awesome-ml-internships-2027) |
 | **Biogen** | Co-op, Data Visualization and Application Development | Cambridge, MA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24227?s=gh-awesome-ml-internships-2027) |
 | **Disney** | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160010?s=gh-awesome-ml-internships-2027) |
 | **onsemi** | Spring 2027 - Data Analyst Intern | Scottsdale, AZ, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-onsemi-2506290?s=gh-awesome-ml-internships-2027) |
