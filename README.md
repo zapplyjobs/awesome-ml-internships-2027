@@ -171,8 +171,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054572?s=gh-awesome-ml-internships-2027) |
-| **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0055524?s=gh-awesome-ml-internships-2027) |
+| **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 31m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054572?s=gh-awesome-ml-internships-2027) |
+| **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 31m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0055524?s=gh-awesome-ml-internships-2027) |
 | **Brunswick** | Data Science Intern | Champaign, IL | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051760?s=gh-awesome-ml-internships-2027) |
 | **Verizon** | Irving V Teamer for a Day: Verizon Data Science Summer 2027 Internship | Irving, Texas | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101386?s=gh-awesome-ml-internships-2027) |
 | **Verizon** | Verizon Network and Technology: Data Science Summer 2027 Internship | Irving, Texas | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101384?s=gh-awesome-ml-internships-2027) |
