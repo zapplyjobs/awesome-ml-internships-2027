@@ -16,7 +16,7 @@
 <p align="center">🚀 Live AI, machine learning, and data science internships for students, refreshed through the Zapply job pipeline.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Internships-568-3FB950?style=flat&logo=briefcase" height="30" alt="AI & ML Internships">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Internships-574-3FB950?style=flat&logo=briefcase" height="30" alt="AI & ML Internships">
   <img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-208-2F81F7?style=flat&logo=briefcase" height="30" alt="Data Science & Analytics">
   <img src="https://img.shields.io/badge/Companies-198-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -136,15 +136,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Thomson Reuters** | Applied Scientist Intern | Ann Arbor, California | 4w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ203428?s=gh-awesome-ml-internships-2027) |
 | **Cigna** | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate | 4w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26010712?s=gh-awesome-ml-internships-2027) |
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | San Mateo, California, United... | 4w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9?s=gh-awesome-ml-internships-2027) |
-| **Crowe** | AI Engineering Intern | Chicago IL USA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowe-external-careers-R-51782?s=gh-awesome-ml-internships-2027) |
-| **NVIDIA** | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA, Santa Clara | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023491?s=gh-awesome-ml-internships-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Deep Learning | US, CA, Santa Clara | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023497?s=gh-awesome-ml-internships-2027) |
+| **NVIDIA** | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA, Santa Clara | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023491?s=gh-awesome-ml-internships-2027) |
 | **NVIDIA** | Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 | US, CA, Santa Clara | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2012398?s=gh-awesome-ml-internships-2027) |
+| **AeroVironment** | Summer 2027 Machine Learning Intern | Minneapolis, MN | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-8389?s=gh-awesome-ml-internships-2027) |
+| **Crowe** | AI Engineering Intern | Chicago IL USA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowe-external-careers-R-51782?s=gh-awesome-ml-internships-2027) |
 | **Campbell Soup Company** | Agentic AI Engineer Co-Op | USA - Remote | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-campbellsoup-externalcareers-globalsite-Req-66015?s=gh-awesome-ml-internships-2027) |
 | **Campbell Soup Company** | Agentic AI Engineer Co-Op | USA - Remote | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-campbellsoup-externalcareers-globalsite-Req-66014?s=gh-awesome-ml-internships-2027) |
 | **NREL** | Graduate Intern - LLM Reliability and Uncertainty for AI Science Assistants | Golden, CO | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14416?s=gh-awesome-ml-internships-2027) |
 | **NREL** | Graduate (3-12 month) Intern - Artificial Intelligence for Power System Operations | Golden, CO | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14160?s=gh-awesome-ml-internships-2027) |
-| **AeroVironment** | Summer 2027 Machine Learning Intern | Minneapolis, MN | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-8389?s=gh-awesome-ml-internships-2027) |
 | **Expedia Group** | Machine Learning Science Intern - PhD - 2026 - Austin, San Jose | Austin Domain 11 HomeAway | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-expedia-private-R-98585?s=gh-awesome-ml-internships-2027) |
 | **Expedia Group** | 2023 PhD Intern - Machine Learning Science | Austin Domain 11 HomeAway | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-expedia-private-R-76833?s=gh-awesome-ml-internships-2027) |
 | **The Mosaic Company** | Artificial Intelligence Co-Op/Intern - Spring 2027 | Tampa, FL | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mosaic-mosaic-64729?s=gh-awesome-ml-internships-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **National Interstate Insurance** | Enterprise Analytics Intern - Summer 2027 | Cincinnati, OH | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9650?s=gh-awesome-ml-internships-2027) |
-| **Cboe** | Quant & Data Analytics Intern | Chicago, IL | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4708?s=gh-awesome-ml-internships-2027) |
+| **National Interstate Insurance** | Enterprise Analytics Intern - Summer 2027 | Cincinnati, OH | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9650?s=gh-awesome-ml-internships-2027) |
+| **Cboe** | Quant & Data Analytics Intern | Chicago, IL | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4708?s=gh-awesome-ml-internships-2027) |
 | **Disney** | Graduate Associate, Data Analytics, Spring 2027 | Lake Buena Vista, FL, USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160000?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Data Science: AI Experiences PhD Internship Opportunities - Redmond | Redmond, Washington, United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200053341?s=gh-awesome-ml-internships-2027) |
 | **Solidigm** | Talent Acquisition Data Engineering & Analytics Graduate Intern | Rancho Cordova, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-solidigm-744000153246129?s=gh-awesome-ml-internships-2027) |
@@ -226,9 +226,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amgen** | Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | United States - Remote | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-awesome-ml-internships-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Data Science | Mountain View, CA, USA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8221956?s=gh-awesome-ml-internships-2027) |
 | **Johnson & Johnson** | Commercial Data Science & AI Co-op | Raritan, New Jersey, United... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099258?s=gh-awesome-ml-internships-2027) |
+| **Premier** | Data Science Intern | Charlotte, NC | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-premierinc-external-professional-R0008481?s=gh-awesome-ml-internships-2027) |
 | **GE Aerospace** | SaaS - Flight Analytics Platform - Data Science Co-op - Spring 2027 | Austin | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5040450?s=gh-awesome-ml-internships-2027) |
 | **Amazon.com Services LLC** | 2027 Data Science Internship - United States, PhD or Masters Student | Seattle, WA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-c6ed8877-5a6f-43f4-b77e-34caa1d6540a?s=gh-awesome-ml-internships-2027) |
-| **Premier** | Data Science Intern | Charlotte, NC | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-premierinc-external-professional-R0008481?s=gh-awesome-ml-internships-2027) |
 | **Epic Games** | Data Science Intern | Cary,North Carolina,United States | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6202675004?s=gh-awesome-ml-internships-2027) |
 | **Viking Global Investors** | Data Science Intern | New York, NY | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vikingglobalinvestors-6202755004?s=gh-awesome-ml-internships-2027) |
 | **Figma** | PhD Intern, Data Science (2027) | San Francisco, CA • New York, NY | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6200626004?s=gh-awesome-ml-internships-2027) |
@@ -313,9 +313,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **National Interstate Insurance** | Property & Inland Marine Intern - Year-Round | Syracuse, NY | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9652?s=gh-awesome-ml-internships-2027) |
-| **The Hartford** | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2626103?s=gh-awesome-ml-internships-2027) |
-| **Leidos** | Business Systems AI Intern | 6314 Remote/Teleworker US | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193770?s=gh-awesome-ml-internships-2027) |
+| **National Interstate Insurance** | Property & Inland Marine Intern - Year-Round | Syracuse, NY | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9652?s=gh-awesome-ml-internships-2027) |
+| **The Hartford** | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2626103?s=gh-awesome-ml-internships-2027) |
+| **Leidos** | Business Systems AI Intern | 6314 Remote/Teleworker US | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193770?s=gh-awesome-ml-internships-2027) |
 | **Southwest Airlines** | Summer 2027 Data Engineer Internship | Dallas, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-73271?s=gh-awesome-ml-internships-2027) |
 | **Disney** | Decision Science Product Engineering Graduate Associate, Spring 2027 | Lake Buena Vista, FL, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160002?s=gh-awesome-ml-internships-2027) |
 | **Vertex Pharmaceuticals** | Vertex Spring Co-Op 2027, Process and Media Development | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30512?s=gh-awesome-ml-internships-2027) |
@@ -379,12 +379,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Texas Instruments** | Information Technology Intern – Data Engineering | Dallas, TX, United States | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-texas-instruments-25017978?s=gh-awesome-ml-internships-2027) |
 | **Johnson & Johnson** | Business Intelligence Co-Op | Irving, Texas, United States of... | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097003?s=gh-awesome-ml-internships-2027) |
 | **Flagship Pioneering** | Pioneering Medicines: Bioinformatics Co-Op | Cambridge, MA USA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8800567002?s=gh-awesome-ml-internships-2027) |
-| **Dell Technologies** | Global Marketing Graduate AI & Data Intern | Round Rock, TX, United States | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-dell-technologies-299054?s=gh-awesome-ml-internships-2027) |
 | **TD Bank** | 2027 Summer Internship Program - Global Technology & Solutions - Data Analyst | Mount Laurel, New Jersey | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510800?s=gh-awesome-ml-internships-2027) |
 | **TD Bank** | 2027 Summer Internship Program - Global Technology & Solutions - Data Engineer | Mount Laurel, New Jersey | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510797?s=gh-awesome-ml-internships-2027) |
+| **Dell Technologies** | Global Marketing Graduate AI & Data Intern | Round Rock, TX, United States | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-dell-technologies-299054?s=gh-awesome-ml-internships-2027) |
 | **BMO** | AI Intern, Winter 2027 (Internship) - 4 months | Chicago, IL, USA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260026562?s=gh-awesome-ml-internships-2027) |
-| **HP Inc** | Product Marketing / Portfolio Strategy Intern : Insight & Strategy (Agentic AI Focus) | Spring, Texas, United States of... | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4756?s=gh-awesome-ml-internships-2027) |
 | **TD Bank** | 2027 Spring Co-op - Global Technology & Solutions - Data Engineer | Mount Laurel, New Jersey | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510111?s=gh-awesome-ml-internships-2027) |
+| **HP Inc** | Product Marketing / Portfolio Strategy Intern : Insight & Strategy (Agentic AI Focus) | Spring, Texas, United States of... | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4756?s=gh-awesome-ml-internships-2027) |
 | **NewsBreak** | Nearby AI Internship Program - Engineering Track | Mountain View, California,... | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-newsbreak-4712896006?s=gh-awesome-ml-internships-2027) |
 | **Oshkosh Corporation** | AI Intern | Oshkosh, Wisconsin, United States | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50265?s=gh-awesome-ml-internships-2027) |
 | **Oshkosh Corporation** | Data Engineer Intern | Oshkosh, Wisconsin, United States | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49868?s=gh-awesome-ml-internships-2027) |
@@ -490,7 +490,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 568 current opportunities from 198 companies**
+**🎯 574 current opportunities from 198 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
