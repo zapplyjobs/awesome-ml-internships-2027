@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Highmark Health** | Summer 2027 Artificial Intelligence (Operations) Undergraduate Intern | Pittsburgh PA, 15222, FAP, 5th... | 5m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287476?s=gh-awesome-ml-internships-2027) |
+| **Highmark Health** | Summer 2027 Artificial Intelligence (Operations) Undergraduate Intern | Pittsburgh PA, 15222, FAP, 5th... | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287476?s=gh-awesome-ml-internships-2027) |
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8817974002?s=gh-awesome-ml-internships-2027) |
 | **Biogen** | Co-op, Machine Learning Engineering | Remote, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24310?s=gh-awesome-ml-internships-2027) |
 | **ABB** | AI Engineering, ERP Intern- Summer 2027 | USA, NC, Cary | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048711?s=gh-awesome-ml-internships-2027) |
@@ -314,8 +314,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Leidos** | Business Systems AI Intern | 6314 Remote/Teleworker US | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193769?s=gh-awesome-ml-internships-2027) |
-| **Microsoft** | Applied Sciences INTERN | United States | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055606?s=gh-awesome-ml-internships-2027) |
+| **Leidos** | Business Systems AI Intern | 6314 Remote/Teleworker US | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193769?s=gh-awesome-ml-internships-2027) |
+| **Microsoft** | Applied Sciences INTERN | United States | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055606?s=gh-awesome-ml-internships-2027) |
 | **Waymo** | 2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models | Mountain View, CA, USA | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8257801?s=gh-awesome-ml-internships-2027) |
 | **Sigma Computing** | AI/ML PhD Intern (Summer 2027) | New York, New York | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sigmacomputing-8015269003?s=gh-awesome-ml-internships-2027) |
 | **Sigma Computing** | AI/ML PhD Intern (Summer 2027) | San Francisco, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sigmacomputing-7861424003?s=gh-awesome-ml-internships-2027) |
