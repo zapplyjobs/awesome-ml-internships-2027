@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Tencent** | Data Science Intern | California-Palo Alto | 11m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tencent-tencent-careers-R108213?s=gh-awesome-ml-internships-2027) |
+| **Tencent** | Data Science Intern | California-Palo Alto | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tencent-tencent-careers-R108213?s=gh-awesome-ml-internships-2027) |
 | **Itron** | Intern - HR AI Data Science (Summer 2027) | TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-itron-itron-JR103034?s=gh-awesome-ml-internships-2027) |
 | **Itron** | Intern - People Analytics (Summer 2027) | WA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-itron-itron-JR103033?s=gh-awesome-ml-internships-2027) |
 | **Daimler Truck** | Data Science Intern | Portland, OR US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20166?s=gh-awesome-ml-internships-2027) |
