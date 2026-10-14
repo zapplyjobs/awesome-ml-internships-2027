@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Field AI** | Research Scientist Intern, Robot Learning & Manipulation (Spring, Summer & Fall 2027)   Master’s... | Irvine, CA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-field-ai-b37569c3-d07f-4968-82dc-44020f34e54e?s=gh-awesome-ml-internships-2027) |
+| **Field AI** | Research Scientist Intern, Robot Learning & Manipulation (Spring, Summer & Fall 2027)   Master’s... | Irvine, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-field-ai-b37569c3-d07f-4968-82dc-44020f34e54e?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Research Intern - Machine Learning and Statistics | Cambridge, Massachusetts,... | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061780?s=gh-awesome-ml-internships-2027) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction | Mountain View, CA, USA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8279620?s=gh-awesome-ml-internships-2027) |
 | **ServiceNow** | AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors) | Santa Clara, CALIFORNIA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000155345889?s=gh-awesome-ml-internships-2027) |
