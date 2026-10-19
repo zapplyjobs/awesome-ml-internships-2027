@@ -176,9 +176,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KLA** | Tax & Data Analytics Intern | Ann Arbor, MI | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642280?s=gh-awesome-ml-internships-2027) |
-| **Johnson & Johnson** | Quality Data Science Co-Op , Summer 2027 | Cincinnati, Ohio, United States... | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103629?s=gh-awesome-ml-internships-2027) |
-| **Marvell** | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA | 26m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603846?s=gh-awesome-ml-internships-2027) |
+| **KLA** | Tax & Data Analytics Intern | Ann Arbor, MI | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642280?s=gh-awesome-ml-internships-2027) |
+| **Johnson & Johnson** | Quality Data Science Co-Op , Summer 2027 | Cincinnati, Ohio, United States... | 26m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103629?s=gh-awesome-ml-internships-2027) |
+| **Marvell** | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA | 34m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603846?s=gh-awesome-ml-internships-2027) |
 | **Cox** | Data Scientist Intern - Summer 2027 (Atlanta, GA) | Atlanta GA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682164?s=gh-awesome-ml-internships-2027) |
 | **Zoetis** | Chemistry Data Science Intern - Digital CMC Workflows | Kalamazoo - Downtown Portage Street | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00021822?s=gh-awesome-ml-internships-2027) |
 | **Leidos** | Data Engineering & Analytics Intern | Shiloh, IL | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194635?s=gh-awesome-ml-internships-2027) |
@@ -317,8 +317,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Nissan** | Applied AI & Business Innovation Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United... | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00214225?s=gh-awesome-ml-internships-2027) |
-| **National Interstate Insurance** | FIS Claims Intern (Spring 2027) | Cincinnati, OH | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9746?s=gh-awesome-ml-internships-2027) |
+| **Nissan** | Applied AI & Business Innovation Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United... | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00214225?s=gh-awesome-ml-internships-2027) |
+| **National Interstate Insurance** | FIS Claims Intern (Spring 2027) | Cincinnati, OH | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9746?s=gh-awesome-ml-internships-2027) |
 | **Bracebridge Capital** | Northeastern University Software Engineer - Business Intelligence Co-op | Boston | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-bracebridgecapital-4744999005?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Applied Sciences INTERN | United States | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055606?s=gh-awesome-ml-internships-2027) |
 | **Eulerity** | AI Intern - Office of CEO & Head of Product | New York, NY | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-eulerity-4722871006?s=gh-awesome-ml-internships-2027) |
