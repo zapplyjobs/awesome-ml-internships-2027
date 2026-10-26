@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Salesforce** | Summer 2027 Intern - Applied Scientist, Optimization | California San Francisco | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363005?s=gh-awesome-ml-internships-2027) |
+| **Salesforce** | Summer 2027 Intern - Applied Scientist, Optimization | California San Francisco | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363005?s=gh-awesome-ml-internships-2027) |
 | **Skydio** | PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027 | San Mateo, California, United... | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-f1a72f5b-6157-47c1-8de9-379a32c7419f?s=gh-awesome-ml-internships-2027) |
 | **ByteDance** | Research Scientist Intern (Distributed NoSQL Database Systems) - 2027 Start (PhD) | Seattle, Washington | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bytedance-7668371456348326149?s=gh-awesome-ml-internships-2027) |
 | **ByteDance** | Machine Learning Engineer Intern (E-Commerce Risk Control)- 2027 Start (PhD) | Seattle, Washington | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bytedance-7675477254269765941?s=gh-awesome-ml-internships-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Booz Allen Hamilton** | University - 2027 Summer Games Data Scientist Intern - Lexington, MA | Lexington, MA | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252275?s=gh-awesome-ml-internships-2027) |
+| **Booz Allen Hamilton** | University - 2027 Summer Games Data Scientist Intern - Lexington, MA | Lexington, MA | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252275?s=gh-awesome-ml-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring Co-Op 2027, Commercial Analytics | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31112?s=gh-awesome-ml-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring Co-Op 2027, Commercial Analytics, Market Access | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31008?s=gh-awesome-ml-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring Co-Op 2027, Process Engineering Data Analytics | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31006?s=gh-awesome-ml-internships-2027) |
@@ -319,8 +319,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Wells Fargo** | 2027 Technology Summer Internship – Early Careers (Data Engineering) | CHARLOTTE, NC | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583066?s=gh-awesome-ml-internships-2027) |
-| **The Travelers Companies** | Decision Science - Marketing & Communications Intern | CT - Hartford | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53354?s=gh-awesome-ml-internships-2027) |
+| **Wells Fargo** | 2027 Technology Summer Internship – Early Careers (Data Engineering) | CHARLOTTE, NC | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583066?s=gh-awesome-ml-internships-2027) |
+| **The Travelers Companies** | Decision Science - Marketing & Communications Intern | CT - Hartford | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53354?s=gh-awesome-ml-internships-2027) |
 | **CVS Health** | Innovation & Technology Internship – Data Engineering – Summer 2027 (Undergraduate) | TX - Irving | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084831?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Applied Sciences INTERN | United States | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041777?s=gh-awesome-ml-internships-2027) |
 | **HPE (University)** | AI/ML Developer Intern | San Jose, California | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217413?s=gh-awesome-ml-internships-2027) |
