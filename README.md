@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **USAA** | Data Scientist Intern | Plano Legacy | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0121200?s=gh-awesome-ml-internships-2027) |
-| **Micron Technology** | Intern - Data Science | San Jose, CA | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR114549?s=gh-awesome-ml-internships-2027) |
+| **USAA** | Data Scientist Intern | Plano Legacy | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0121200?s=gh-awesome-ml-internships-2027) |
+| **Micron Technology** | Intern - Data Science | San Jose, CA | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR114549?s=gh-awesome-ml-internships-2027) |
 | **Q2** | 2027 Summer Internship - Data Science | Cary, North Carolina | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-q2ebanking-q2-REQ-12799?s=gh-awesome-ml-internships-2027) |
 | **Q2** | 2027 Summer Internship - Data Science | Austin, Texas | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-q2ebanking-q2-REQ-12796?s=gh-awesome-ml-internships-2027) |
 | **Micron** | Intern - Data Science | San Jose, California, United... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-micron-45225120?s=gh-awesome-ml-internships-2027) |
@@ -319,12 +319,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Micron Technology** | Intern - Memory Performance and Power Modeling | San Jose, CA | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR112542?s=gh-awesome-ml-internships-2027) |
-| **ASML** | Internship/Co-Op: Data Engineer | San Diego, CA, USA | 29m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355626?s=gh-awesome-ml-internships-2027) |
-| **National Interstate Insurance** | Data ITSM Analyst Intern - Summer 2027 | Cincinnati, OH | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9814?s=gh-awesome-ml-internships-2027) |
+| **Micron Technology** | Intern - Memory Performance and Power Modeling | San Jose, CA | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR112542?s=gh-awesome-ml-internships-2027) |
+| **ASML** | Internship/Co-Op: Data Engineer | San Diego, CA, USA | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355626?s=gh-awesome-ml-internships-2027) |
+| **National Interstate Insurance** | Data ITSM Analyst Intern - Summer 2027 | Cincinnati, OH | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9814?s=gh-awesome-ml-internships-2027) |
 | **NREL** | Graduate Intern  – Agentic AI-Driven Computational Synthesis of PGM-free Fuel Cell Catalysts | Golden, CO | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14571?s=gh-awesome-ml-internships-2027) |
 | **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195576?s=gh-awesome-ml-internships-2027) |
-| **Schonfeld** | 2027 Enterprise AI Intern | New York, New York, United States | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-schonfeld-8171694?s=gh-awesome-ml-internships-2027) |
+| **Schonfeld** | 2027 Enterprise AI Intern | New York, New York, United States | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-schonfeld-8171694?s=gh-awesome-ml-internships-2027) |
 | **Micron** | Intern - Memory Performance and Power Modeling | San Jose, California, United... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-micron-45227339?s=gh-awesome-ml-internships-2027) |
 | **Moderna** | 2027 Intern, Data Management | Cambridge, Massachusetts,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20100?s=gh-awesome-ml-internships-2027) |
 | **Arrowstreet Capital** | Investment Processes Intern, Summer 2027 | Boston | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrowstreetcapital-campus-careers-R1557?s=gh-awesome-ml-internships-2027) |
