@@ -322,8 +322,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Salesforce** | AI Labs Summer Internship, Emerging Talent | California San Francisco | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR366248?s=gh-awesome-ml-internships-2027) |
-| **Cisco** | Data Analyst I (Intern) - United States | San Jose California US | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024561?s=gh-awesome-ml-internships-2027) |
+| **Salesforce** | AI Labs Summer Internship, Emerging Talent | California San Francisco | 47m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR366248?s=gh-awesome-ml-internships-2027) |
+| **Cisco** | Data Analyst I (Intern) - United States | San Jose California US | 49m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024561?s=gh-awesome-ml-internships-2027) |
 | **National Interstate Insurance** | IT Intern - Summer 2027 | Cincinnati, OH | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9816?s=gh-awesome-ml-internships-2027) |
 | **MITRE** | Trustworthy AI Intern | McLean, Virginia | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117833?s=gh-awesome-ml-internships-2027) |
 | **Axiom Space** | Enterprise Data Analyst Intern, Power BI & Data Quality (Summer 2027) | Houston | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-axiomspace-external-career-site-JR100823?s=gh-awesome-ml-internships-2027) |
