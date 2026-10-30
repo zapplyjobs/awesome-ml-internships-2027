@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **T-Mobile** | Summer 2027 Assoc AI Engineer Internship | Overland Park, Kansas | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ380484?s=gh-awesome-ml-internships-2027) |
+| **T-Mobile** | Summer 2027 Assoc AI Engineer Internship | Overland Park, Kansas | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ380484?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Applied Scientist: Internship Opportunities, Turing | Redmond, Washington, United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064446?s=gh-awesome-ml-internships-2027) |
 | **General Motors** | 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles | Sunnyvale, California, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623439?s=gh-awesome-ml-internships-2027) |
 | **T-Mobile** | Summer 2027 Assoc AI Engineer Internship | Overland Park Kansas | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ380492?s=gh-awesome-ml-internships-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **MITRE** | Data Science and Engineering Intern | McLean, Virginia | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117661?s=gh-awesome-ml-internships-2027) |
+| **MITRE** | Data Science and Engineering Intern | McLean, Virginia | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117661?s=gh-awesome-ml-internships-2027) |
 | **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054572?s=gh-awesome-ml-internships-2027) |
 | **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0055524?s=gh-awesome-ml-internships-2027) |
 | **Arch Capital Group** | Data Analytics Intern | Greensboro, NC United States of... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_1137?s=gh-awesome-ml-internships-2027) |
@@ -322,9 +322,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **National Interstate Insurance** | IT Intern - Summer 2027 | Cincinnati, OH | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9816?s=gh-awesome-ml-internships-2027) |
-| **MITRE** | Trustworthy AI Intern | McLean, Virginia | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117833?s=gh-awesome-ml-internships-2027) |
-| **Microsoft** | Applied Science: PhD Internship Opportunities, Turing | Redmond, Washington, United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064449?s=gh-awesome-ml-internships-2027) |
+| **National Interstate Insurance** | IT Intern - Summer 2027 | Cincinnati, OH | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9816?s=gh-awesome-ml-internships-2027) |
+| **MITRE** | Trustworthy AI Intern | McLean, Virginia | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117833?s=gh-awesome-ml-internships-2027) |
+| **Microsoft** | Applied Science: PhD Internship Opportunities, Turing | Redmond, Washington, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064449?s=gh-awesome-ml-internships-2027) |
 | **NVIDIA** | VLSI CAD Timing Intern, Applied AI - Summer 2027 | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026799?s=gh-awesome-ml-internships-2027) |
 | **Gilead Sciences** | Intern - Research - Clinical Virology - AI | United States - California -... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0055526?s=gh-awesome-ml-internships-2027) |
 | **Gilead Sciences** | Intern - Research - Medicinal Chemistry/ Structural Biology & Chemistry - AI | United States - California -... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0055565?s=gh-awesome-ml-internships-2027) |
