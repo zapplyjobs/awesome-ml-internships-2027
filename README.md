@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KLA** | Machine Learning Engineer Intern | Milpitas, CA | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641562?s=gh-awesome-ml-internships-2027) |
+| **KLA** | Machine Learning Engineer Intern | Milpitas, CA | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641562?s=gh-awesome-ml-internships-2027) |
 | **ByteDance** | Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start | San Diego, California | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bytedance-7701477754169968901?s=gh-awesome-ml-internships-2027) |
 | **The Mosaic Company** | Artificial Intelligence Co-Op/Intern - Summer 2027 | Tampa, FL | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mosaic-mosaic-65420?s=gh-awesome-ml-internships-2027) |
 | **Zebra** | 2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers) | Holtsville, New York | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103632?s=gh-awesome-ml-internships-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Arch Capital Group** | Data and Analytics Intern | Farmington, CT United States of... | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_845?s=gh-awesome-ml-internships-2027) |
+| **Arch Capital Group** | Data and Analytics Intern | Farmington, CT United States of... | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_845?s=gh-awesome-ml-internships-2027) |
 | **Zebra** | 2027 Summer Internship (US) - Data Scientist | Lincolnshire, Illinois | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103610?s=gh-awesome-ml-internships-2027) |
 | **Sierra Nevada Corporation** | Data Science Intern (Summer 2027) | Sparks, NV | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031257?s=gh-awesome-ml-internships-2027) |
 | **Dow Jones** | Summer 2027 Internship Program - Marketing Data Science Intern | NYC | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-awesome-ml-internships-2027) |
