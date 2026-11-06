@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Bosch Group** | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000160208440?s=gh-awesome-ml-internships-2027) |
+| **Bosch Group** | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000160208440?s=gh-awesome-ml-internships-2027) |
 | **Match Group** | Data Scientist Intern | San Francisco, California | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-matchgroup-573621f6-9931-4e39-840a-1d04171be2ff?s=gh-awesome-ml-internships-2027) |
 | **CrowdStrike** | Sales Data Analytics Intern | Sunnyvale, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30801?s=gh-awesome-ml-internships-2027) |
 | **PayPal** | Data Scientist Intern - Summer 2027 | San Jose, California, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paypal-jobs-R0138582?s=gh-awesome-ml-internships-2027) |
@@ -321,7 +321,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Oshkosh Corporation** | Customer Support AI Intern | McConnellsburg, Pennsylvania,... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49501?s=gh-awesome-ml-internships-2027) |
+| **Oshkosh Corporation** | Customer Support AI Intern | McConnellsburg, Pennsylvania,... | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49501?s=gh-awesome-ml-internships-2027) |
 | **ASM** | Intern, Product Intelligence Engineering (AI/ML) | > Arizona > Phoenix | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-asm-5029228101?s=gh-awesome-ml-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-Op, Structural Biology & Biophysics | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31300?s=gh-awesome-ml-internships-2027) |
 | **Moderna** | 2027 Intern, Data Management | Cambridge, Massachusetts,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20100?s=gh-awesome-ml-internships-2027) |
