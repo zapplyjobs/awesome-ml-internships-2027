@@ -322,7 +322,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ASM** | Intern, Product Intelligence Engineering (AI/ML) | > Arizona > Phoenix | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-asm-5029228101?s=gh-awesome-ml-internships-2027) |
+| **ASM** | Intern, Product Intelligence Engineering (AI/ML) | > Arizona > Phoenix | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-asm-5029228101?s=gh-awesome-ml-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-Op, Structural Biology & Biophysics | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31300?s=gh-awesome-ml-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-Op, Protein Sciences | San Diego, CA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31303?s=gh-awesome-ml-internships-2027) |
 | **Moderna** | 2027 Intern, Data Management | Cambridge, Massachusetts,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20100?s=gh-awesome-ml-internships-2027) |
