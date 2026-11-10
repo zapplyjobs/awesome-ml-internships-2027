@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Toyota Research Institute** | Automated Driving Advanced Development Intern, Machine Learning Research | Los Altos, CA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-9c48b236-e6ad-4b97-9380-c675e5432415?s=gh-awesome-ml-internships-2027) |
-| **UiPath** | AI Engineer Intern | Bellevue | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-uipath-f6857594-645c-4833-aa5b-763e9759b555?s=gh-awesome-ml-internships-2027) |
+| **UiPath** | AI Engineer Intern | Bellevue | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-uipath-f6857594-645c-4833-aa5b-763e9759b555?s=gh-awesome-ml-internships-2027) |
 | **NBCUniversal** | Media Tech: Data, AI & Machine Learning Internships – Summer 2027 | Universal City, CA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160649935?s=gh-awesome-ml-internships-2027) |
 | **NBCUniversal** | Media Tech: Data, AI & Machine Learning Internships – Summer 2027 | New York, NY | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160650767?s=gh-awesome-ml-internships-2027) |
 | **Analog Devices** | Machine Learning for Computational Sensing Research Intern | US, MA, Boston | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R268371?s=gh-awesome-ml-internships-2027) |
