@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **onsemi** | Spring 2027 - AI & Data Analytics Intern | Scottsdale, AZ, United States | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-onsemi-2507010?s=gh-awesome-ml-internships-2027) |
+| **onsemi** | Spring 2027 - AI & Data Analytics Intern | Scottsdale, AZ, United States | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-onsemi-2507010?s=gh-awesome-ml-internships-2027) |
 | **NBCUniversal** | Advertising & Partnerships: Data Science Internship – Summer 2027 | New York, NY | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160689930?s=gh-awesome-ml-internships-2027) |
 | **NBCUniversal** | Studio Operations, Data Analytics Internships – Summer 2027 | Universal City, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160648109?s=gh-awesome-ml-internships-2027) |
 | **National Interstate Insurance** | Telematics Intern / Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9868?s=gh-awesome-ml-internships-2027) |
