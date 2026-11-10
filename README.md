@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **onsemi** | Spring 2027 - AI & Data Analytics Intern | Scottsdale, AZ, United States | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-onsemi-2507010?s=gh-awesome-ml-internships-2027) |
+| **onsemi** | Spring 2027 - AI & Data Analytics Intern | Scottsdale, AZ, United States | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-onsemi-2507010?s=gh-awesome-ml-internships-2027) |
 | **NBCUniversal** | Advertising & Partnerships: Data Science Internship – Summer 2027 | New York, NY | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160689930?s=gh-awesome-ml-internships-2027) |
 | **NBCUniversal** | Studio Operations, Data Analytics Internships – Summer 2027 | Universal City, CA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160648109?s=gh-awesome-ml-internships-2027) |
 | **National Interstate Insurance** | Telematics Intern / Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9868?s=gh-awesome-ml-internships-2027) |
@@ -186,7 +186,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MITRE** | Data Science Intern | McLean, Virginia | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-awesome-ml-internships-2027) |
 | **Zoox** | Data Science Intern \[Summer 2027\] | Foster City, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97?s=gh-awesome-ml-internships-2027) |
 | **SharkNinja** | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | Miami, Florida, United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4725275006?s=gh-awesome-ml-internships-2027) |
-| **Bosch Group** | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000160208440?s=gh-awesome-ml-internships-2027) |
+| **Bosch Group** | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000160208440?s=gh-awesome-ml-internships-2027) |
 | **Invesco** | Early Career Intern - Real Estate (Data Science) | Dallas, Texas | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15091?s=gh-awesome-ml-internships-2027) |
 | **Zillow** | Data Science Intern | Seattle-WA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751677?s=gh-awesome-ml-internships-2027) |
 | **Match Group** | Data Scientist Intern | San Francisco, California | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-matchgroup-573621f6-9931-4e39-840a-1d04171be2ff?s=gh-awesome-ml-internships-2027) |
