@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **General Motors** | 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform | Sunnyvale, California, United... | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621695?s=gh-awesome-ml-internships-2027) |
-| **General Motors** | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United... | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624034?s=gh-awesome-ml-internships-2027) |
+| **General Motors** | 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform | Sunnyvale, California, United... | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621695?s=gh-awesome-ml-internships-2027) |
+| **General Motors** | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United... | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624034?s=gh-awesome-ml-internships-2027) |
 | **Analog Devices** | Machine Learning for Computational Sensing Research Intern | US, MA, Boston | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R268371?s=gh-awesome-ml-internships-2027) |
 | **ASML** | Internship- Co-Op: AI Engineer | San Diego, CA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355627?s=gh-awesome-ml-internships-2027) |
 | **ASML** | Internship- Co-Op: AI Engineer | San Diego, CA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355628?s=gh-awesome-ml-internships-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **The Hartford** | Data Science Intern - Summer 2027 | Hartford, CT | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2627114?s=gh-awesome-ml-internships-2027) |
+| **The Hartford** | Data Science Intern - Summer 2027 | Hartford, CT | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2627114?s=gh-awesome-ml-internships-2027) |
 | **Federal Reserve System** | Summer 2027 Graduate Internship – Data Science | Minneapolis, MN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000034056?s=gh-awesome-ml-internships-2027) |
 | **National Interstate Insurance** | Telematics Intern / Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9868?s=gh-awesome-ml-internships-2027) |
 | **Itron** | Intern - Data Analytics and Automation, Finance | WA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-itron-itron-JR103020?s=gh-awesome-ml-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Salesforce** | Summer 2027 Intern - Applied AI Strategy & Research | California - San Francisco | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR367516?s=gh-awesome-ml-internships-2027) |
+| **Salesforce** | Summer 2027 Intern - Applied AI Strategy & Research | California - San Francisco | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR367516?s=gh-awesome-ml-internships-2027) |
 | **Booz Allen Hamilton** | University - Summer 2027 Quantum Computing Research Intern | Washington, DC | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249046?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Research Intern - Next-Generation AI Agents | Redmond, Washington, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200066468?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Research Intern - Research in Software Engineering, ML Systems, Agents | Redmond, Washington, United States | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200065702?s=gh-awesome-ml-internships-2027) |
@@ -324,7 +324,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Clarios** | IT Digital/AI Intern (Summer 2027) | WI | 44m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD49910?s=gh-awesome-ml-internships-2027) |
+| **Clarios** | IT Digital/AI Intern (Summer 2027) | WI | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD49910?s=gh-awesome-ml-internships-2027) |
 | **Highmark Health** | Summer 2027 Data Analyst enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286826?s=gh-awesome-ml-internships-2027) |
 | **National Interstate Insurance** | M&A Intern | Ohio | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9779?s=gh-awesome-ml-internships-2027) |
 | **National Interstate Insurance** | IT Summer Internship Program Event Coordinator Intern - Summer 2027 | Cincinnati, OH | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9889?s=gh-awesome-ml-internships-2027) |
