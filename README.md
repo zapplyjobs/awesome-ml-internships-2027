@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **National Interstate Insurance** | Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904?s=gh-awesome-ml-internships-2027) |
-| **ABB** | Sales Excellence Data Analytics Intern - Summer 2027 | USA, NC, Cary | 36m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050987?s=gh-awesome-ml-internships-2027) |
+| **National Interstate Insurance** | Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904?s=gh-awesome-ml-internships-2027) |
+| **ABB** | Sales Excellence Data Analytics Intern - Summer 2027 | USA, NC, Cary | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050987?s=gh-awesome-ml-internships-2027) |
 | **Vertex Pharmaceuticals** | Summer Intern 2027, OSD Process Data Analytics | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31312?s=gh-awesome-ml-internships-2027) |
 | **Carrier Global** | Data Analytics Intern - Summer | CAI23: Carrier-Indianapolis,... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220000?s=gh-awesome-ml-internships-2027) |
 | **ASML** | Internship - EUV Data Science and Analytics | Austin, TX, USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357717?s=gh-awesome-ml-internships-2027) |
