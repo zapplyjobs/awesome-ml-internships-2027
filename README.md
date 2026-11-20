@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Chan Zuckerberg Biohub** | AI Research Scientist Intern | New York, NY (Hybrid) | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-biohub-8400682?s=gh-awesome-ml-internships-2027) |
+| **Chan Zuckerberg Biohub** | AI Research Scientist Intern | New York, NY (Hybrid) | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-biohub-8400682?s=gh-awesome-ml-internships-2027) |
 | **LinkedIn** | AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA) | Mountain View, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000162628808?s=gh-awesome-ml-internships-2027) |
 | **LinkedIn** | AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000162623639?s=gh-awesome-ml-internships-2027) |
 | **LinkedIn** | AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000162623368?s=gh-awesome-ml-internships-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GlobalFoundries** | AI/ML Analytics Intern, Digital Manufacturing (Summer 2027) | USA - New York - Malta | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-awesome-ml-internships-2027) |
+| **GlobalFoundries** | AI/ML Analytics Intern, Digital Manufacturing (Summer 2027) | USA - New York - Malta | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-awesome-ml-internships-2027) |
 | **Bristol Myers Squibb** | Data Science Intern (Undergrad)-Summer 2027 | Remote - United States - US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608665?s=gh-awesome-ml-internships-2027) |
 | **TransUnion** | Data Science & Analytics Internship - Summer 2027 | Chicago, Illinois | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-transunion-transunion-19043450?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Data Science - Forward Deployed Engineer: PhD Internship Opportunities | Redmond, Washington, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061967?s=gh-awesome-ml-internships-2027) |
@@ -331,11 +331,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **T-Mobile** | Summer 2027 Data Analyst Internship | Bellevue, Washington | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ383587?s=gh-awesome-ml-internships-2027) |
-| **T-Mobile** | Summer 2027 Data Analyst Internship | Bellevue, Washington | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ383588?s=gh-awesome-ml-internships-2027) |
-| **Moderna** | 2027 Intern, TMF Systems & Operations | Cambridge, Massachusetts,... | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20220?s=gh-awesome-ml-internships-2027) |
-| **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 26m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196994?s=gh-awesome-ml-internships-2027) |
-| **National Interstate Insurance** | Desktop AI Intern - Summer 2027 | Cincinnati, OH | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9817?s=gh-awesome-ml-internships-2027) |
+| **T-Mobile** | Summer 2027 Data Analyst Internship | Bellevue, Washington | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ383587?s=gh-awesome-ml-internships-2027) |
+| **T-Mobile** | Summer 2027 Data Analyst Internship | Bellevue, Washington | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ383588?s=gh-awesome-ml-internships-2027) |
+| **Moderna** | 2027 Intern, TMF Systems & Operations | Cambridge, Massachusetts,... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20220?s=gh-awesome-ml-internships-2027) |
+| **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 34m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196994?s=gh-awesome-ml-internships-2027) |
+| **National Interstate Insurance** | Desktop AI Intern - Summer 2027 | Cincinnati, OH | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9817?s=gh-awesome-ml-internships-2027) |
 | **Lucid Motors** | Intern, AI/ML, Vehicle Infotainment, Summer 2027 | Newark, CA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290923007?s=gh-awesome-ml-internships-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Agentic AI | Mountain View, California,... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8401116?s=gh-awesome-ml-internships-2027) |
 | **QuEra Computing** | Intern, Quantum Calibrations, Quantum Computing Services | Boston, MA, USA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-queracomputinginc-5490107008?s=gh-awesome-ml-internships-2027) |
