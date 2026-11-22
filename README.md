@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Research Intern - AI /Machine Learning Numerics & Efficiency | Mountain View, California,... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068214?s=gh-awesome-ml-internships-2027) |
+| **Microsoft** | Research Intern - AI /Machine Learning Numerics & Efficiency | Mountain View, California,... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068214?s=gh-awesome-ml-internships-2027) |
 | **Chan Zuckerberg Biohub** | AI Research Scientist Intern | New York, NY (Hybrid) | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-biohub-8400682?s=gh-awesome-ml-internships-2027) |
 | **LinkedIn** | AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA) | Mountain View, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000162628808?s=gh-awesome-ml-internships-2027) |
 | **LinkedIn** | AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000162623639?s=gh-awesome-ml-internships-2027) |
