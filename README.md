@@ -332,7 +332,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Microsoft** | Applied Sciences INTERN | United States | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041777?s=gh-awesome-ml-internships-2027) |
-| **MITRE** | Internships in Generative and Agentic AI | McLean, Virginia | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117796?s=gh-awesome-ml-internships-2027) |
+| **MITRE** | Internships in Generative and Agentic AI | McLean, Virginia | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117796?s=gh-awesome-ml-internships-2027) |
 | **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196994?s=gh-awesome-ml-internships-2027) |
 | **Intuitive** | Data Engineering Intern | Sunnyvale, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162832659?s=gh-awesome-ml-internships-2027) |
 | **Lucid Motors** | Intern, AI/ML, Vehicle Infotainment, Summer 2027 | Newark, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290923007?s=gh-awesome-ml-internships-2027) |
