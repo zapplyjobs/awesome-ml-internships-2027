@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Red Bull** | 2027 Internship, Spring - Data Science | Morristown, NJ | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163139699?s=gh-awesome-ml-internships-2027) |
-| **Stantec** | Data Scientist Intern - Water (Summer 2027) | San Diego, CA, United States | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1009005?s=gh-awesome-ml-internships-2027) |
+| **Stantec** | Data Scientist Intern - Water (Summer 2027) | San Diego, CA, United States | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1009005?s=gh-awesome-ml-internships-2027) |
 | **MITRE** | Data Science Intern | McLean, Virginia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-awesome-ml-internships-2027) |
 | **Impulse Space** | Supply Chain Data Analytics Intern (Summer 2027) | Redondo Beach, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/pinpoint-impulsespace-624039?s=gh-awesome-ml-internships-2027) |
 | **GlobalFoundries** | AI/ML Analytics Intern, Digital Manufacturing (Summer 2027) | USA - New York - Malta | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-awesome-ml-internships-2027) |
@@ -332,7 +332,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Microsoft** | Applied Sciences INTERN | United States | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041777?s=gh-awesome-ml-internships-2027) |
-| **MITRE** | Internships in Generative and Agentic AI | McLean, Virginia | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117796?s=gh-awesome-ml-internships-2027) |
+| **MITRE** | Internships in Generative and Agentic AI | McLean, Virginia | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117796?s=gh-awesome-ml-internships-2027) |
 | **Intuitive** | Data Engineering Intern | Sunnyvale, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162832659?s=gh-awesome-ml-internships-2027) |
 | **Lucid Motors** | Intern, AI/ML, Vehicle Infotainment, Summer 2027 | Newark, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290923007?s=gh-awesome-ml-internships-2027) |
 | **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196994?s=gh-awesome-ml-internships-2027) |
