@@ -87,7 +87,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ICF** | 2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA) | Reston, VA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603312?s=gh-awesome-ml-internships-2027) |
 | **Zillow** | Applied Scientist (Economics) Intern | Seattle-WA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751642?s=gh-awesome-ml-internships-2027) |
 | **Aerospace Corporation** | 2027 Machine Learning Engineer Undergrad Intern | El Segundo, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016667?s=gh-awesome-ml-internships-2027) |
-| **Anduril** | 2027 Machine Learning Engineer Intern | Santa Ana, California, United... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5274037007?s=gh-awesome-ml-internships-2027) |
+| **Anduril** | 2027 Machine Learning Engineer Intern | Santa Ana, California, United... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5274037007?s=gh-awesome-ml-internships-2027) |
 | **Aerospace Corporation** | 2027 Machine Learning Engineering Graduate Intern | El Segundo, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016432?s=gh-awesome-ml-internships-2027) |
 | **Bose** | Data Science Co-Op (NLP & GenAI) | MA Framingham | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29251?s=gh-awesome-ml-internships-2027) |
 | **KLA** | Computer Vision/Machine Learning Intern | Milpitas, CA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642826?s=gh-awesome-ml-internships-2027) |
@@ -331,7 +331,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **LabCorp** | Intern - Bioinformatics | Baltimore MD | 16m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634135?s=gh-awesome-ml-internships-2027) |
+| **LabCorp** | Intern - Bioinformatics | Baltimore MD | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634135?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Applied Sciences INTERN | United States | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041777?s=gh-awesome-ml-internships-2027) |
 | **MITRE** | Internships in Generative and Agentic AI | McLean, Virginia | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117796?s=gh-awesome-ml-internships-2027) |
 | **Intuitive** | Data Engineering Intern | Sunnyvale, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162832659?s=gh-awesome-ml-internships-2027) |
