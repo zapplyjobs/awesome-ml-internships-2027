@@ -332,8 +332,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ASML** | Internship - Data Analyst | San Jose, CA, USA | 14m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355833?s=gh-awesome-ml-internships-2027) |
-| **GE Vernova** | GE Vernova MES Implementation & Manufacturing Data Internship - Summer 2027 | Charleroi USA | 24m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5059700?s=gh-awesome-ml-internships-2027) |
+| **ASML** | Internship - Data Analyst | San Jose, CA, USA | 23m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355833?s=gh-awesome-ml-internships-2027) |
+| **GE Vernova** | GE Vernova MES Implementation & Manufacturing Data Internship - Summer 2027 | Charleroi USA | 33m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5059700?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Researcher Intern, CoreAI | Redmond, Washington, United States | 15h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200060962?s=gh-awesome-ml-internships-2027) |
 | **LabCorp** | Intern - Bioinformatics | Baltimore MD | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634135?s=gh-awesome-ml-internships-2027) |
 | **Microsoft** | Applied Sciences INTERN | United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041777?s=gh-awesome-ml-internships-2027) |
